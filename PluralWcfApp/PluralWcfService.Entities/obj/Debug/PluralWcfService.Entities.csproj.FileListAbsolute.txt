@@ -1,0 +1,4 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Entities\bin\Debug\PluralWcfService.Entities.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Entities\bin\Debug\PluralWcfService.Entities.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Entities\obj\Debug\PluralWcfService.Entities.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Entities\obj\Debug\PluralWcfService.Entities.pdb

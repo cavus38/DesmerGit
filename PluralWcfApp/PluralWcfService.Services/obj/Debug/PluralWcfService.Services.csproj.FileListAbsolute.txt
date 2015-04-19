@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Services.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Services.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Services.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Entities.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Entities.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\obj\Debug\PluralWcfService.Services.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\obj\Debug\PluralWcfService.Services.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\obj\Debug\PluralWcfService.Services.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Data.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\PluralWcfService.Data.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\PluralWcfApp\PluralWcfService.Services\bin\Debug\EntityFramework.SqlServer.xml
