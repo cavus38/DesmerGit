@@ -12,7 +12,7 @@ namespace PluralWcfService.Services
   
     public class PluralWcfService:IPluralWcfService
     {
-        readonly PluralDbContext _context = new PluralDbContext();
+        readonly PluralDbContext _context = new PluralDbContext();// github test comment asd
         public List<Product> GetProducts()
         {
             throw new NotImplementedException();
